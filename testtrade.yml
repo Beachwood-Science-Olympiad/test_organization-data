@@ -3,9 +3,9 @@
 public:
   c:
     mit: [2019, 2020]
-    georgia: [2018,2019]
+    georgia: [2018, 2019]
     umaryland: [2020]
-    umichigan: [2019,2020]
+    umichigan: [2019, 2020]
     2019:
       - dartmouth
       - ggso
@@ -33,13 +33,11 @@ public:
     ufso: [2019, 2020]
     harvard: [2020]
     university_texas: [2019]
-    testexchange: [2020]
-
+    testexchange: "*"
 
 not_trade:
   c:
     west_windsor_plainsboro_north: [2019]
-
 
   b:
     john_hopkins: [2020]

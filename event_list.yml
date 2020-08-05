@@ -278,6 +278,7 @@ inquiry:
         - exdes
         - exp d
         - xpd
+        - exp design
       rotations: false
   fermi:
     fermi_questions:

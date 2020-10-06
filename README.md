@@ -1,2 +1,2 @@
 # test_organization-data
-This is for scioly test trading 
+This is for scioly test collection

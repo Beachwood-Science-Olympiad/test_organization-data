@@ -38,7 +38,8 @@ public:
 not_trade:
   c:
     west_windsor_plainsboro_north: [2019]
-
+    2020:
+      - mason_try ###only applicable till december 1st 2020
   b:
     john_hopkins: [2020]
 

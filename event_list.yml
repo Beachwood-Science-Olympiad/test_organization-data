@@ -94,7 +94,7 @@ biology:
         respiratory-digestive-immune: [2018]
         respiratory-muscular-endocrine(c): [2011]
         skeletal-circulatory-?: [2009]
-        skeletal-muscular-integumentary: [2016, 2020]
+        skeletal-muscular-integumentary: [2016, 2020,2021]
     neuroscience:
       ids:
         - neursocience

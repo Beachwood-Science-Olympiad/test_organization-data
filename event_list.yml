@@ -305,6 +305,11 @@ inquiry:
         - widi
         - write_it
       rotations: false
+    write_it_cad_it:
+      ids:
+      - writeitcadit
+      - wici
+      rotations: false
 
 physics:
   circuit:
@@ -362,6 +367,8 @@ technology:
         - game
       rotations: false
     source_code:
+      rotations: false
+    cyber_security:
       rotations: false
   engineering:
     detector_building:
@@ -427,4 +434,6 @@ technology:
     mousetrap_vehicle:
       ids:
         - mouse
+      rotations: false
+    vehicle_design:
       rotations: false

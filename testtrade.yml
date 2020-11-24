@@ -6,6 +6,7 @@ public:
     georgia: [2018, 2019]
     umaryland: [2020]
     umichigan: [2019, 2020]
+    sofo: [2021]
     2019:
       - dartmouth
       - ggso

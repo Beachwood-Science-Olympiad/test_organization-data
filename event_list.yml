@@ -252,6 +252,7 @@ earth_science:
     astronomy:
       ids:
         - astron
+        - astro
       rotations: false
     reach_for_the_stars:
       ids:

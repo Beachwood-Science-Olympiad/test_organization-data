@@ -9,6 +9,7 @@ categories:
           - rank
           - scores
         rotations: null
+        first: true
     fast_facts:
       fast_facts:
         ids:

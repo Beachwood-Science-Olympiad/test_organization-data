@@ -269,6 +269,7 @@ categories:
       codebusters:
         ids:
           - codeb
+          - codebuster
         rotations: null
     data_science:
       data_science:

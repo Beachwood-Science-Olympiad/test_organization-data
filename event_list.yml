@@ -12,6 +12,7 @@ categories:
         first: true
     fast_facts:
       fast_facts:
+        fancy_name: Fast Facts
         ids:
           - fastfacts
           - fast facts
@@ -24,6 +25,7 @@ categories:
         rotations: null
     picture:
       picture_this:
+        fancy_name: Picture This
         ids:
           - picture
         rotations: null
@@ -53,6 +55,7 @@ categories:
         rotations: null
     bird:
       ornithology:
+        fancy_name: Ornithology
         ids:
           - ornith
           - orthinology
@@ -80,6 +83,7 @@ categories:
       anatomy_and_physiology:
         ids:
           - anat
+          - anatomy
           - a and p
           - anatom
           - a_p
@@ -185,6 +189,9 @@ categories:
           - protein
           - prot mod
         rotations: null
+    environment:
+      environmental_chemistry:
+        rotations: null
   dumb:
     meme:
       lean_mean_meme_machine:
@@ -212,7 +219,7 @@ categories:
     dynamic_planet:
       dynamic_planet:
         ids:
-          - dynamic planet
+          - dynamic
           - oceanography
           - dp
         rotations:
@@ -228,6 +235,7 @@ categories:
     geology:
       geologic_mapping:
         ids:
+          - geologic 
           - mapping
           - geo map
           - geomap
@@ -275,6 +283,8 @@ categories:
       data_science:
         rotations: null
     experimental_design:
+      experiment_and_data_analysis:
+        rotations: null
       experimental_design:
         ids:
           - exper
@@ -313,6 +323,7 @@ categories:
         ids:
         - writeitcadit
         - wici
+        - write-it-cad-it
         rotations: null
 
   physics:
@@ -349,6 +360,7 @@ categories:
       sounds_of_music:
         ids:
           - sound
+          - sounds
         rotations: null
     waves:
       crave_the_wave:
@@ -371,6 +383,8 @@ categories:
           - game
         rotations: null
       source_code:
+        rotations: null
+      code_analysis:
         rotations: null
       cyber_security:
         rotations: null
@@ -413,6 +427,10 @@ categories:
       boomilever:
         ids:
           - boomilever
+        rotations: null
+      digital_structures:
+        ids:
+          - digitalstructure
         rotations: null
       bridge_building:
         rotations: null
